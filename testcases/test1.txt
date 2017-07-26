@@ -1,0 +1,5 @@
+fact := 1;
+fact := 1;
+n:=5
+count:=n
+end

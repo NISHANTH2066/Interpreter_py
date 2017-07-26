@@ -1,0 +1,11 @@
+fact := 1;
+n:=5;
+count:=n;
+while count!=0 do
+	fact:=fact*count;
+	count:=count-1
+done;
+print 'Nishanth';
+print n;
+println
+end
